@@ -1,2 +1,2 @@
 # Deep_surrogate_model
-A Deep Surrogate Model with Spatio-Temporal Awareness for Water Quality Sensor Measurement, accepted by Expert Systems with Applications
+A Deep Surrogate Model with Spatio-Temporal Awareness for Water Quality Sensor Measurement, accepted by Expert Systems with Applications, 2022
